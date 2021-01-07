@@ -7,7 +7,7 @@ Introduction to programming in Python with applications to advanced mathematics.
 
 # Brief Notebook Assignment Desription:
 
-* Notebook #0 - My First Python3 Notebook: A brief introduction to the GitHub + CoLab + Jupyter + Python ecosystem
+* Notebook #0 - My First Python3 Notebook: A brief introduction to the GitHub + CoLab + Jupyter + Python ecosystem.
 * Notebook #1 -
 
 # Notes: 
