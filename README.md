@@ -7,10 +7,10 @@ Mathematics course taken at UC Santa Cruz during the Winter of 2021. This reposi
 
 * Taken with Professor Martin Weissman during the Winter of 2021 (In Progress).
 
-# Brief Notebook Assignment Desription:
+# Brief Notebook Assignment Description:
 
 * Notebook #0 - My First Python3 Notebook: A brief introduction to the GitHub + CoLab + Jupyter + Python ecosystem.
-* Notebook #1 - An Introduction to Computing with Python: An introduction to using Python as a calculator and to implementing a loop structure. 
+* Notebook #1 - Computing with Python: An introduction to using Python as a calculator and to implementing a loop structure. 
 * Notebook #2 -
 
 # Notes: 
