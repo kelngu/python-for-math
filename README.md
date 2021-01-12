@@ -1,6 +1,6 @@
 # Programming for Mathematics
 
-Mathematics course taken with Professor Weissman at UC Santa Cruz during the Winter Quarter of 2021 (In Progress). This repository will include Jupyter notebook assignments done in the Python Programming Language.  
+Mathematics course taken with Professor Martin Weissman at UC Santa Cruz during the Winter Quarter of 2021 (In Progress). This repository will include Jupyter notebook assignments done in the Python Programming Language.  
 
 # Course Description: 
 * Introduction to programming in Python with applications to advanced mathematics. Students apply data structures and algorithms to topics such as numerical approximation, number theory, linear algebra, and combinatorics. 
