@@ -9,7 +9,7 @@ Mathematics course taken with Professor Martin Weissman at UC Santa Cruz during 
 
 * Notebook #0 - My First Python3 Notebook: A brief introduction to the GitHub + CoLab + Jupyter + Python ecosystem.
 * Notebook #1 - Computing with Python: An introduction to using Python as a calculator and to implementing a loop structure. 
-* Notebook #2 -
+* Notebook #2 - Functions and Control Statements: Exploration of Python functions, control statements, and while loops with applications to the Euclidean algorithm and to the Collatz conjecture.
 
 # Notes: 
 
