@@ -22,4 +22,4 @@ Mathematics course taken with Professor Martin Weissman at UC Santa Cruz during 
   * In collaboration with Conrad Ainslie, Akshita Bafna, Burleigh Charlton, and Yang Li
 
 # Notes: 
-
+* **P4M_Notebook4.ipynb** incorporates file **meowp.png** as part of a low-level graphics manipulation exercise. 
