@@ -16,8 +16,10 @@ Mathematics course taken with Professor Martin Weissman at UC Santa Cruz during 
 
 # Brief Notebook Assignment Description:
 
-* Exploration #1 - 
-* Exploration #2 -
+* Exploration #1 - The "3n+ 1" Collatz Conjecture: Explored the peculiarity of the "3n + 1" cycle conjecture, where if  you start  with any positive integer "n", the resulting sequence will eventually reach the “cycle” 4,2,1,4,2,1.
+  * In collaboration with Tatiana Godinez, Edward Hayden, and Miles Mitchell
+* Exploration #2 - Prime Exploration: Visualized the characteristics of a list of prime numbers ranging from either 1 to "X" or from "X" to "Y" as well as the approximation of the Prime Number Theorem and its corresponding “logarithmic  integral” function using MatPlotLib and Pillow 
+  * In collaboration with Conrad Ainslie, Akshita Bafna, Burleigh Charlton, and Yang Li
 
 # Notes: 
 
